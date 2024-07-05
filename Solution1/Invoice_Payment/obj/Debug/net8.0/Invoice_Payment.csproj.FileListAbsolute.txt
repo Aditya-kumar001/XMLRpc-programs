@@ -1,0 +1,5 @@
+F:\.net\Solution1\Invoice_Payment\obj\Debug\net8.0\Invoice_Payment.csproj.AssemblyReference.cache
+F:\.net\Solution1\Invoice_Payment\obj\Debug\net8.0\Invoice_Payment.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\Solution1\Invoice_Payment\obj\Debug\net8.0\Invoice_Payment.AssemblyInfoInputs.cache
+F:\.net\Solution1\Invoice_Payment\obj\Debug\net8.0\Invoice_Payment.AssemblyInfo.cs
+F:\.net\Solution1\Invoice_Payment\obj\Debug\net8.0\Invoice_Payment.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = InvoiceAndPayment
+build_property.ProjectDir = F:\.net\Solution1\InvoiceAndPayment\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

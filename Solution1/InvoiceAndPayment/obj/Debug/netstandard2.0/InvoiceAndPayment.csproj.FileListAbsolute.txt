@@ -1,0 +1,10 @@
+F:\.net\Solution1\InvoiceAndPayment\bin\Debug\netstandard2.0\InvoiceAndPayment.deps.json
+F:\.net\Solution1\InvoiceAndPayment\bin\Debug\netstandard2.0\InvoiceAndPayment.dll
+F:\.net\Solution1\InvoiceAndPayment\bin\Debug\netstandard2.0\InvoiceAndPayment.pdb
+F:\.net\Solution1\InvoiceAndPayment\obj\Debug\netstandard2.0\InvoiceAndPayment.csproj.AssemblyReference.cache
+F:\.net\Solution1\InvoiceAndPayment\obj\Debug\netstandard2.0\InvoiceAndPayment.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\Solution1\InvoiceAndPayment\obj\Debug\netstandard2.0\InvoiceAndPayment.AssemblyInfoInputs.cache
+F:\.net\Solution1\InvoiceAndPayment\obj\Debug\netstandard2.0\InvoiceAndPayment.AssemblyInfo.cs
+F:\.net\Solution1\InvoiceAndPayment\obj\Debug\netstandard2.0\InvoiceAndPayment.csproj.CoreCompileInputs.cache
+F:\.net\Solution1\InvoiceAndPayment\obj\Debug\netstandard2.0\InvoiceAndPayment.dll
+F:\.net\Solution1\InvoiceAndPayment\obj\Debug\netstandard2.0\InvoiceAndPayment.pdb
